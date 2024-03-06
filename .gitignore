@@ -1,7 +1,6 @@
 *cache*
 .vscode/
 *.egg-info
-__pycache__/
 dist/
 *.pyc
 .venv/
@@ -9,4 +8,5 @@ dist/
 coverage.xml
 .pytest_cache/
 .idea/
-  
+hello/__pycache__/__init__.cpython-311.pyc
+hello/scripts/__pycache__/say_hello.cpython-311.pyc
