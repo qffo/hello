@@ -9,5 +9,3 @@ coverage.xml
 .pytest_cache/
 .idea/
 __pycache__/
-hello/__pycache__/
-hello/scripts/
